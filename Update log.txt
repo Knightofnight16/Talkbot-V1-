@@ -1,0 +1,13 @@
+==================================================================================================================
+==================================================+++UpdateLog+++=================================================
+11/2/2016
+Update:Removed the age category;
+       added random question;
+       fixed issues;
+       added weather question if random number equals with 0;//part of random question update;
+       uses if() for analyzing the answer;
+Next update will include:More random question;
+                         More tweaks;
+                         More paperwork;
+==================================================================================================================
+==================================================+++UpdateLog+++=================================================                                       

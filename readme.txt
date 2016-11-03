@@ -10,9 +10,6 @@ Github:https://github.com/Knightofnight16/Talkbot-V1-
 
 E-mail:basilispap16@gmail.com
 
-Authors:
-Knightofnight16
-
 |==========================|
 |Created by Knightofnight16|
 |==========================|
@@ -20,3 +17,10 @@ Knightofnight16
 |==========================|
 |Created with Visual studio|
 |==========================|
+
+ Special thanks:
+
+|================================|
+|http://www.fromtexttospeech.com/|
+|================================|
+

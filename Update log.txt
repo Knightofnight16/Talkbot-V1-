@@ -25,5 +25,14 @@ Update:·Added another random question;
        ·Fixed some grammar issues;
        ·Tweaked the code;
        ·Released the V1.1;
+11/3/2016 17:19
+Update:·Change of direction of Talk_bot;
+       ·The project is changing to more of a personal assistant;
+       ·All previous work is kept;
+       ·Added assistant feautures;
+       ·Currently developing the assistant side;
+       ·Tweaked the Readme.txt file;
+       ·Adding voice speech by http://www.fromtexttospeech.com/;
+       ·Tweaked comments on code;
 ==================================================================================================================
 ==================================================+++UpdateLog+++=================================================                                       

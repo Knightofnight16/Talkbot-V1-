@@ -1,13 +1,29 @@
 ==================================================================================================================
 ==================================================+++UpdateLog+++=================================================
-11/2/2016
-Update:Removed the age category;
-       added random question;
-       fixed issues;
-       added weather question if random number equals with 0;//part of random question update;
-       uses if() for analyzing the answer;
+11/2/2016 15:00PM
+Update:·Removed the age category;
+       ·Added random question;
+       ·Fixed issues;
+       ·Recreated most of the code;
 Next update will include:More random question;
                          More tweaks;
                          More paperwork;
+11/2/2016 19:50PM
+Update:·Fixed readme.txt file;
+       ·Fixed Update log.txt;
+       ·Added current files to Github after a bug;
+       ·Organized a little the code;
+       ·Changed name for legal issues;
+       ·New name of the program is Talk_bot (V1);
+       ·Changed the name of the bot;
+       ·New name of the bot is Robotniker;
+       ·Added funny website question;
+Next update will include:More random question;
+                         More tweaks;
+11/3/2016 12:08
+Update:·Added another random question;
+       ·Fixed some grammar issues;
+       ·Tweaked the code;
+       ·Released the V1.1;
 ==================================================================================================================
 ==================================================+++UpdateLog+++=================================================                                       

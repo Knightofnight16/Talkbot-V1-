@@ -34,5 +34,9 @@ Update:·Change of direction of Talk_bot;
        ·Tweaked the Readme.txt file;
        ·Adding voice speech by http://www.fromtexttospeech.com/;
        ·Tweaked comments on code;
+11/4/2016 14:04
+Update:·Voiced over current project;
+       ·Tweaked code;
+       ·Finished Wifi options;
 ==================================================================================================================
 ==================================================+++UpdateLog+++=================================================                                       

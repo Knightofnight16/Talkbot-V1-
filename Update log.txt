@@ -37,6 +37,13 @@ Update:·Change of direction of Talk_bot;
 11/4/2016 14:04
 Update:·Voiced over current project;
        ·Tweaked code;
-       ·Finished Wifi options;
+11/5/2016 14:00
+Update:·Tweaked the Readme.txt;
+       ·Finished wifi setting;
+       ·Fixed Updatelog.txt;
+Disclaimer:From now on i will not update the software at the weekend;
+11/7/2016
+Update:·Added cleaning option; 
+       ·
 ==================================================================================================================
 ==================================================+++UpdateLog+++=================================================                                       
